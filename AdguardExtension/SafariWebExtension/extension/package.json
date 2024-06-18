@@ -17,7 +17,7 @@
     "@adguard/translate": "^0.2.3",
     "@adguard/tsurlfilter": "^0.7.1",
     "@babel/runtime": "^7.14.6",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "classnames": "^2.3.1",
     "extended-css": "https://github.com/AdguardTeam/ExtendedCss",
     "mobx": "^6.3.3",
@@ -62,7 +62,7 @@
     "html-webpack-plugin": "^5.3.2",
     "jest": "^27.0.6",
     "lodash": "^4.17.21",
-    "postcss": "^8.3.5",
+    "postcss": "^8.4.31",
     "postcss-import": "^14.0.2",
     "postcss-loader": "^6.1.1",
     "postcss-nested": "^5.0.5",
@@ -72,7 +72,7 @@
     "style-loader": "^3.1.0",
     "ts-node": "^10.0.0",
     "typescript": "^4.4.3",
-    "webpack": "^5.45.1",
+    "webpack": "^5.76.0",
     "webpack-cli": "^4.7.2"
   }
 }
